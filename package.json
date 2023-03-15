@@ -1,7 +1,7 @@
 {
   "name": "v-window-directive",
   "description": "一个能让元素具备窗口化能力的vue3自定义指令。",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "files": ["lib"],
   "directories": {
