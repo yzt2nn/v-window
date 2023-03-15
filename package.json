@@ -1,5 +1,24 @@
 {
-  "dependencies": {
-    "vue": "^3.2.47"
-  }
+  "name": "v-window-directive",
+  "description": "一个能让元素具备窗口化能力的vue3自定义指令。",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "files": ["lib"],
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzt2nn/v-window-directive.git"
+  },
+  "author": "yzt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzt2nn/v-window-directive/issues"
+  },
+  "homepage": "https://github.com/yzt2nn/v-window-directive#readme"
 }
